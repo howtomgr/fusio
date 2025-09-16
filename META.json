@@ -1,0 +1,60 @@
+{
+  "category": "api-gateways",
+  "created_date": "2025-09-15T22:48:57.603378",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "fusio is a free and open-source API management. Fusio provides open source API management platform to build REST APIs",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/api-gateways/fusio",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/api-gateways/fusio",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.603401",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "fusio",
+  "repository_url": "https://github.com/howtomgr/fusio",
+  "spec_version": "2.0",
+  "subcategory": "api-gateways",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "api-gateways",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "fusio Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/api-gateways/fusio"
+}
